@@ -1,0 +1,44 @@
+# Node.js dependencies
+/node_modules
+/npm-debug.log
+/yarn-error.log
+/pnpm-debug.log
+
+# Logs
+logs
+*.log
+logs/*
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Coverage directory used by testing tools
+/coverage
+
+# build directories
+/dist
+/build
+
+# Temporary files and backups
+*.tmp
+*.swp
+*.swo
+*.un~
+*~
+
+# Ignore specific files
+.gitignore~
+.index.js.un~
+.package.json.un~
+index.js~
+package.json~
