@@ -10,7 +10,7 @@ logs
 logs/*
 
 # Environment variables
-.env
+
 
 # OS-specific files
 .DS_Store
